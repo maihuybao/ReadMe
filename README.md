@@ -17,8 +17,8 @@ I'm Joykishan! I'm a **Web Developer**:iphone:, looking to solve **real-world pr
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+![](https://komarev.com/ghpvc/?username=maihuybao&style=flat)
+[![Github](https://img.shields.io/badge/-maihuybao-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/maihuybao)
 
 <!-- Sample Dev class image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
